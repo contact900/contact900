@@ -1,20 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi, I'm Hudson Shreve 👋
 
-### 👨‍💻 About Me
-I am a [Your Job Title, e.g., Web Developer / Data Analyst] passionate about building [what you like building].
+### 🚀 Business Development & AI Automation
+I bridge the gap between sales operations and software engineering, building AI tools that solve real business problems.
 
-- 🔭 I’m currently working on: [Name of a current project]
-- 🌱 I’m currently learning: [Skill you are learning, e.g., Python, React]
-- 👯 I’m looking to collaborate on: [Open source projects / Startups]
-- 💬 Ask me about ...
+- 🔭 **Currently working on:** A **Multi-Agent "Chief of Staff" System** (LifeOS).
+    - *Architecture:* Orchestrating a primary router agent that delegates tasks to specialized sub-agents (Finance, Work, Business) using **LangGraph.js**.
+    - *Tech Stack:* Built with **Next.js** and **Supabase** for robust RAG-based long-term memory.
+- 🛠️ **I build tools like:** 'MoLo CallLab' (AI sales analysis) and 'RevRider AI'.
+- 🌱 **Learning:** Advanced agentic workflows and RAG optimization.
 
-### 🛠️ Languages and Tools
-* **Languages:** Python, JavaScript, HTML/CSS
-* **Tools:** VS Code, Git, Docker
-
-### 📫 How to reach me:
-* [LinkedIn Profile Link](https://www.linkedin.com/...)
-* [Portfolio Website](https://www.yourwebsite.com)
-* Email: [Your Email Address]
-<!--
-
+### 💻 Tech & Tools
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -6,7 +6,7 @@ Using AI to solve business problems and find solutions for day to day issues
 - **Currently working on:** [LifeOS - Personal AI Chief of Staff](https://github.com/contact900/LifeOS)
     - *Architecture:* Orchestrating a primary router agent that delegates tasks to specialized sub-agents (Finance, Work, Business) using **LangGraph.js**.
     - *Tech Stack:* Built with **Next.js** and **Supabase** for robust RAG-based long-term memory.
-- **I build tools like:** [MoLo CallLab](https://molocalllabs.vercel.app/) (AI sales analysis) and 'RevRider AI'(Outbound Cold Calling Agents)
+- **I build tools like:** [MoLo CallLab](https://molocalllabs.vercel.app/) (AI sales analysis and cold calling practice) and 'RevRider AI'(Outbound Cold Calling Agents)
 - **Learning:** Advanced agentic workflows and RAG optimization.
 
 ### Powered By

@@ -9,8 +9,8 @@ I bridge the gap between sales operations and software engineering, building AI 
 - 🛠️ **I build tools like:** 'MoLo CallLab' (AI sales analysis) and 'RevRider AI'.
 - 🌱 **Learning:** Advanced agentic workflows and RAG optimization.
 
-### 💻 Tech & Tools
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### ⚡ Powered By
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=robot&logoColor=white)
+![Claude 3.5](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)

@@ -1,12 +1,12 @@
-# Hi, I'm Hudson Shreve 👋
+# Hi, I'm Hudson 
 
 ### 🚀 Business Development & AI Automation
 I bridge the gap between sales operations and software engineering, building AI tools that solve real business problems.
 
-- 🔭 **Currently working on:** A **Multi-Agent "Chief of Staff" System** (LifeOS).
+- 🔭 **Currently working on: [LifeOS - Personal AI Chief of Staff](https://github.com/contact900/LifeOS)
     - *Architecture:* Orchestrating a primary router agent that delegates tasks to specialized sub-agents (Finance, Work, Business) using **LangGraph.js**.
     - *Tech Stack:* Built with **Next.js** and **Supabase** for robust RAG-based long-term memory.
-- 🛠️ **I build tools like:** 'MoLo CallLab' (AI sales analysis) and 'RevRider AI'.
+- 🛠️ **I build tools like:** [MoLo CallLab](https://molocalllabs.vercel.app/) (AI sales analysis) and 'RevRider AI'(Outbound Cold Calling Agents)
 - 🌱 **Learning:** Advanced agentic workflows and RAG optimization.
 
 ### ⚡ Powered By
